@@ -1,7 +1,7 @@
 # 7_LAS_FROST_DynamicData
 Script that dynamically ingests data to LAS FROST Server. 
 
-## Dynamic Obs Loading Script
+## Dynamic Data Ingestion Script
 
 This script handles the loading of dynamic data onto the Lab Service FROST server.
 The request is executed by specifying a parameter (in days) that defines the maximum time range over which the AWS API is queried:
